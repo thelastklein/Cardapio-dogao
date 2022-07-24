@@ -2,13 +2,13 @@ $(document).ready(function() {
 
 let itens = {
         salsicha : {
-            'img'  : '../assets/tradicional-salsicha.jpg',
+            'img'  : 'src/assets/tradicional-salsicha.jpg',
             'nome' : 'DOG TRADICIONAL SALSICHA',
             'descrição' : 'Pão, salsicha, milho, ervilha, passas, batata palha, azeitona, ovo de codorna, queijo ralado, ketchup, maionese e mostarda.',
             'preço' : 'R$8,00'
         },
         linguiça : {
-            'img'  : '../assets/tradicional-linguica.jpg',
+            'img'  : 'src/assets/tradicional-linguica.jpg',
             'nome' : 'DOG TRADICIONAL LINGUIÇA',
             'descrição' : 'Pão, linguiça, milho, ervilha, passas, batata palha, azeitona, ovo de codorna, queijo ralado, ketchup, maionese e mostarda.',
             'preço' : 'R$9,00'
