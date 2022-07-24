@@ -14,97 +14,97 @@ let itens = {
             'preço' : 'R$9,00'
         },
         dogao : {
-            'img'  : '../assets/dogao.jpg',
+            'img'  : 'src/assets/dogao.jpg',
             'nome' : 'BIG DOGÃO',
             'descrição' : 'Pão, 2 salsichas, mussarela, purê de batatas, carne moída, cheddar, milho, ervilha, passas, batata palha, azeitona, ovo de codorna, ketchup, maionese e mostarda.',
             'preço' : 'R$16,00'
         },
         comum : {
-            'img'  : '../assets/prensado-tradicional.jpg',
+            'img'  : 'src/assets/prensado-tradicional.jpg',
             'nome' : 'PRENSADO COMUM',
             'descrição' : 'Pão, salsicha, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$10,00'
         },
         calabresa : {
-            'img'  : '../assets/calabresa.jpg',
+            'img'  : 'src/assets/calabresa.jpg',
             'nome' : 'PRENSADO CALABRESA',
             'descrição' : 'Pão, salsicha, calabresa, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$11,00'
         },
         frango : {
-            'img'  : '../assets/frango.jpg',
+            'img'  : 'src/assets/frango.jpg',
             'nome' : 'PRENSADO FRANGO',
             'descrição' : 'Pão, salsicha, frango desfiado, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$12,00'
         },
         pizza : {
-            'img'  : '../assets/pizza.jpg',
+            'img'  : 'src/assets/pizza.jpg',
             'nome' : 'PRENSADO PIZZA',
             'descrição' : 'Pão, salsicha, mussarela, presunto, orégano, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$12,00'
         },
         bacon : {
-            'img'  : '../assets/bacon.jpg',
+            'img'  : 'src/assets/bacon.jpg',
             'nome' : 'PRENSADO BACON',
             'descrição' : 'Pão, salsicha, bacon, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$12,00'
         },
         carneSeca : {
-            'img'  : '../assets/carne-seca.jpg',
+            'img'  : 'src/assets/carne-seca.jpg',
             'nome' : 'PRENSADO CARNE SECA',
             'descrição' : 'Pão, salsicha, carne seca, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$14,00'
         },
         camarao : {
-            'img'  : '../assets/camarao.jpg',
+            'img'  : 'src/assets/camarao.jpg',
             'nome' : 'PRENSADO CAMARÃO',
             'descrição' : 'Pão, salsicha, camarão, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$14,00'
         },
         completao : {
-            'img'  : '../assets/completao.jpg',
+            'img'  : 'src/assets/completao.jpg',
             'nome' : 'PRENSADÃO COMPLETÃO',
             'descrição' : 'Pão, salsicha, calabresa, frango desfiado, bacon, queijo, presunto, carne seca, camarão, vinagrete, milho, ervilha, batata palha, cheddar, catupiry, ketchup, maionese e mostarda.',
             'preço' : 'R$26,00'
         },
         nutella : {
-            'img'  : '../assets/nutella.jpg',
+            'img'  : 'src/assets/nutella.jpg',
             'nome' : 'PRENSADO NUTELLA C/ MORANGO',
             'descrição' : 'Pão, camada generosa de nutella e bastante morango.',
             'preço' : ' R$13,00'
         },
         banana : {
-            'img'  : '../assets/banana.jpg',
+            'img'  : 'src/assets/banana.jpg',
             'nome' : 'PRENSADO BANANA C/ DOCE DE LEITE',
             'descrição' : 'Pão, mussarela, banana, doce de leite e uma pitada de canela em pó.',
             'preço' : ' R$13,00'
         },
         romeu : {
-            'img'  : '../assets/romeu.jpg',
+            'img'  : 'src/assets/romeu.jpg',
             'nome' : 'PRENSADO ROMEU E JULIETA',
             'descrição' : 'Pão, queijo branco e goiabada.',
             'preço' : 'R$12,00'
         },
         kuat : {
-            'img'  : '../assets/kuat.jpg',
+            'img'  : 'src/assets/kuat.jpg',
             'nome' : 'Kuat 2 litros',
             'descrição' : '',
             'preço' : 'R$5,50'
         },
         refrigerante : {
-            'img'  : '../assets/refri.jpg',
+            'img'  : 'src/assets/refri.jpg',
             'nome' : 'Refrigerante sabores 200 ml',
             'descrição' : '',
             'preço' : 'R$3,00'
         },
         coca : {
-            'img'  : '../assets/coca.jpg',
+            'img'  : 'src/assets/coca.jpg',
             'nome' : 'Mini coca 220 ml',
             'descrição' : '',
             'preço' : 'R$4,00'
         },
         guaravita : {
-            'img'  : '../assets/guaravita.jpg',
+            'img'  : 'src/assets/guaravita.jpg',
             'nome' : 'Guaraná natural 290 ml',
             'descrição' : '',
             'preço' : 'R$2,00'
