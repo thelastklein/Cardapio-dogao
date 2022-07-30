@@ -88,25 +88,25 @@ let itens = {
         kuat : {
             'img'  : 'src/assets/kuat.jpg',
             'nome' : 'Kuat 2 litros',
-            'descrição' : '',
-            'preço' : 'R$5,50'
+            'descrição' : 'Refrigerante Kuat de 2 litros gelado',
+            'preço' : 'R$6,00'
         },
         refrigerante : {
             'img'  : 'src/assets/refri.jpg',
             'nome' : 'Refrigerante sabores 200 ml',
-            'descrição' : '',
+            'descrição' : 'Mini pet de 200 ml gelado, sabores variados',
             'preço' : 'R$3,00'
         },
         coca : {
             'img'  : 'src/assets/coca.jpg',
             'nome' : 'Mini coca 220 ml',
-            'descrição' : '',
+            'descrição' : 'Mini Coca-Cola lata 220 ml gelada',
             'preço' : 'R$4,00'
         },
         guaravita : {
             'img'  : 'src/assets/guaravita.jpg',
             'nome' : 'Guaraná natural 290 ml',
-            'descrição' : '',
+            'descrição' : 'Guaraná natural Moleka gelado',
             'preço' : 'R$2,00'
         }
 }
